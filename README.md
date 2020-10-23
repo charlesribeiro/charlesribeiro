@@ -14,3 +14,4 @@ Hey there, my name is Charles and I am a front-end web developer.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charlesribeiro)](https://github.com/charlesribeiro)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=charlesribeiro&&show_icons=true&title_color=fafafa&icon_color=bb2acf&text_color=daf7dc&bg_color=161515">
