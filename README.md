@@ -1,6 +1,6 @@
 Hey there, my name is Charles and I am a front-end web developer.
 
-- 🔭 I’m currently working on Angular 14, Reac, Node.js + Typescript and vanilla Javascript projects.
+- 🔭 I’m currently working on Angular 14, React, Node.js + Typescript and vanilla Javascript projects.
 - 🌱 I’m currently learning Linux (studying for LPIC certifications) and improving my knowledge on Node.js
 - 👯 I’m looking to collaborate on open-source projects about learning (languages).
 - 🤔 I’m looking for help with back-end programming.
