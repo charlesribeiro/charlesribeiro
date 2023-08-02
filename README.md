@@ -1,14 +1,20 @@
-Hey there, my name is Charles and I am a front-end web developer.
+Greetings! I am Charles, a dedicated Front-End Web Developer with a passion for crafting intuitive and engaging user experiences.
 
-- 🔭 I’m currently working on Angular 14, React, Node.js + Typescript and vanilla Javascript projects.
-- 🌱 I’m currently learning Linux (studying for LPIC certifications) and improving my knowledge on Node.js
-- 👯 I’m looking to collaborate on open-source projects about learning (languages).
-- 🤔 I’m looking for help with back-end programming.
-- 💬 Ask me about front-end development, I will be more than happy to help you!
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love language learning and it is one of my hobbies!
+    💻 I am presently employing my skills on various projects, utilizing cutting-edge technologies such as Angular 16, React, Node.js + TypeScript, and plain Javascript to transform ideas into digital realities.
 
-- 📫 How to reach me: send me an email or reach me on Github or LinkedIn.
+    🎓 I am in the process of expanding my horizons by learning Linux and working towards LPIC certifications while concurrently deepening my understanding of Node.js.
+
+    🌐 I am keen on collaborating on open-source projects, particularly those centered around language learning—a personal passion of mine.
+
+    🆘 I am actively seeking assistance and guidance to enhance my proficiency in back-end programming (C#).
+
+    ❓ Feel free to reach out with any queries related to front-end development. I'm always thrilled to share my knowledge and assist where I can!
+
+    😄 Pronouns: He/Him
+
+    ⚡ Fun fact: Language learning is not just part of my professional interests, but also a favorite pastime of mine!
+
+    📫 Let's connect: Feel free to drop me an email, or find me on Github or LinkedIn for further discussions or collaborations.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesreisribeiro/)](https://www.linkedin.com/in/charlesreisribeiro/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charlesribeiro)](https://github.com/charlesribeiro)
