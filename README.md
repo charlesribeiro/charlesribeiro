@@ -14,10 +14,11 @@ Greetings! I am Charles, a dedicated Front-End Web Developer with a passion for 
 
 ⚡ Fun fact: Language learning is not just part of my professional interests, but also a favorite pastime of mine!
 
-📫 Let's connect: Feel free to drop me an email, or find me on Github or LinkedIn for further discussions or collaborations.
+📫 Let's connect: Feel free to drop me an email, or find me on Github or LinkedIn for further discussions or collaborations. Also check my [Medium blog](medium.com/@charles.ribeiro), where I talk about tech in general and also about [Kanji Kentei](https://en.wikipedia.org/wiki/Kanji_Kentei).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesreisribeiro/)](https://www.linkedin.com/in/charlesreisribeiro/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charlesribeiro)](https://github.com/charlesribeiro)
+[![Medium Badge](https://img.shields.io/badge/-Medium-350?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@charles.ribeiro)](https://medium.com/@charles.ribeiro)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=charlesribeiro&&show_icons=true&title_color=fafafa&icon_color=bb2acf&text_color=daf7dc&bg_color=161515">
