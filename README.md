@@ -6,7 +6,7 @@ Greetings! I am Charles, a dedicated Front-End Web Developer with a passion for 
 
 🌐 I am keen on collaborating on open-source projects, particularly those centered around language learning—a personal passion of mine.
 
-🆘 I am actively seeking assistance and guidance to enhance my proficiency in back-end programming (C#).
+🆘 I am actively seeking assistance and guidance to enhance my proficiency in back-end programming (Java).
 
 ❓ Feel free to reach out with any queries related to front-end development. I'm always thrilled to share my knowledge and assist where I can!
 
